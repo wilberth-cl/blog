@@ -7,7 +7,8 @@ import Nopage from './pages/Nopage';
 
 function App() {
   
-  let component
+
+  let component;
 
   switch(window.location.pathname){
     case "/":
