@@ -7,8 +7,6 @@ body {
 }
 
 .nav {
-    background-color: #333;
-    color: white;
     display: flex;
     justify-content: space-between;
     align-items: stretch;
@@ -37,11 +35,3 @@ body {
     padding: .25rem;
 }
 
-.nav li.active {
-    background-color: #5555;
-}
-
-.nav li:hover {
-    background-color: #ffff;
-    color: black;
-}

@@ -1,19 +1,40 @@
+import { NavLink } from "react-router-dom";
 
-export default function Navbar(){
+function Navbar(){
+
+	let activeStyle = {
+		/* textDecoration: 'underline', */
+		backgroundColor: 'rgb(49 46 129)',
+		borderBottom: '3px solid rgb(29 78 216)'
+	};
 
 	return (
-
-			<nav className="nav">
-				<a href="/" className="site-title">Site Name</a>
+			<nav className="nav font-mono bg-slate-900 text-emerald-500">
+				<NavLink 
+				to="/" 
+				className="site-title">
+					Site Name
+				</NavLink>
 				<ul>
 					<li>
-						<a href="/algo">Algo</a>
+						<NavLink 
+						to="/algo" 
+						className="hover:bg-indigo-700 hover:text-white active:bg-indigo-900"
+						style={ ({ isActive }) => isActive ? activeStyle : undefined }>
+							Algo
+						</NavLink>
 					</li>
 					<li>
-						<a href="/otro">Otro</a>
+						<NavLink 
+						to="/otro" 
+						className="hover:bg-indigo-700 hover:text-white active:bg-indigo-900"
+						style={ ({ isActive }) => isActive ? activeStyle : undefined }>
+							Otro
+						</NavLink>
 					</li>
 				</ul>
 			</nav>
-
 		);
 }
+
+export default Navbar;
