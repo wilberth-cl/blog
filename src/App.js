@@ -8,7 +8,7 @@ function App() {
   
   return (
 
-    <BrowserRouter basename="/blog">
+    <BrowserRouter>
       <div className="mx-auto overflow-hidden">
  
         <Navbar /> 
