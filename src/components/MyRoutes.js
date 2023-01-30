@@ -15,7 +15,7 @@ const MyRoutes = () => (
           />
 
           <Route 
-            path='/blog'
+            path='/blog-cra'
             element = {<Welcome/>} 
             />
 
