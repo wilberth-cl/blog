@@ -1,8 +1,10 @@
+import Layout from "../components/layout/Layout";
+
 function Home(){
     return(
-        <div className="container mx-auto">
+        <Layout>
             <h1>HOME</h1>
-        </div>
+        </Layout>
     )
 }
 
