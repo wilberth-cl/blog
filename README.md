@@ -1,6 +1,4 @@
-# blog-cra &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wilberth-cl/blog-cra/blob/main/LICENSE)
-[![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
-
+# blog-cra &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wilberth-cl/blog-cra/blob/main/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wilberth-cl/blog-cra">
 
 This blog is a simple example of a SPA, developed with [create-react-app](https://github.com/facebook/create-react-app)
