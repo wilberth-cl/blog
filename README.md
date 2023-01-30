@@ -5,7 +5,7 @@
 This blog is a simple example of a SPA, developed with [create-react-app](https://github.com/facebook/create-react-app)
 
 ## First 🙇🏻‍♂️
-* Have you already set up your development environment? Learn 👉🏻 [React](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
+* Have you already set up your development environment? Learn 🤸🏻‍♂️ [Reactjs](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
 
 ## Begins 🏃🏼‍♂️
 * Clone it on your pc 🙂
