@@ -4,6 +4,9 @@
 
 This blog is a simple example of a SPA, developed with [create-react-app](https://github.com/facebook/create-react-app)
 
+## First 🙇🏻‍♂️
+* Learn how to prepare the development environment for an app in [React](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
+
 ## Begins 🏃🏼‍♂️
 * Clone it  🙂
 * Run the following commands in console, inside the **blog-cra** directory.
