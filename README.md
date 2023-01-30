@@ -2,4 +2,16 @@
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wilberth-cl/blog-cra">
 
-Blog is a test SPA, [created with create-react-app]()
+This blog is a simple example of a SPA, developed with [create-react-app](https://github.com/facebook/create-react-app)
+
+## Begins 🏃🏼‍♂️
+* Clone it  🙂
+* Run the following commands in console, inside the **blog-cra** directory.
+
+~~~~
+npm install
+~~~~
+
+~~~~
+npm start
+~~~~
