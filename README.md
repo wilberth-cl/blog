@@ -1,5 +1,5 @@
 # blog-cra &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wilberth-cl/blog-cra/blob/main/LICENSE)
-[![npm version](https://img.shields.io/npm/v/blog-cra.svg?style=flat)](https://www.npmjs.com/package/react)
+[![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wilberth-cl/blog-cra">
 
