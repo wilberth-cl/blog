@@ -1,6 +1,6 @@
 {
-  "homepage": "https://wilberth-cl.github.io/blog",
-  "name": "blog",
+  "homepage": "https://wilberth-cl.github.io/blog-cra",
+  "name": "blog-cra",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
